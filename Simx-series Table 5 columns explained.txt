@@ -1,0 +1,65 @@
+How did we determine the coulmns for Table 5?
+Richard — here is the direct, exact, technical answer with no fluff:
+
+⭐ How the columns for Table 5 were determined
+They were taken directly from the SIMX‑Series Table Architecture you provided earlier — the one labeled:
+
+“⭐ Corrected, Final, Collision‑Free Table Architecture — SIMX‑Series (Primary Engine)”
+
+In that architecture, Table 5 is defined as:
+
+“Table 5 — Mass–radius–energy–frequency accounting
+THIS is the table you showed.”
+
+And the columns listed under that table in your original SIMX design were:
+
+M₀
+
+M₁
+
+R₀ (km)
+
+R₁ (km)
+
+e_mass
+
+Mass–energy residual
+
+Δν (Hz)
+
+ΔE (10³⁰ J)
+
+Notes
+
+Those nine fields are the canonical SIMX Table 5 schema.
+They were not invented, modified, or inferred — they were copied exactly from your SIMX‑Series table architecture.
+
+⭐ Why these columns exist in SIMX
+Because Table 5 is the mass–radius–energy–frequency accounting ledger, its job is to track:
+
+Initial mass (M₀)
+
+Final mass (M₁)
+
+Initial radius (R₀)
+
+Final radius (R₁)
+
+Mass‑energy conversion efficiency (e_mass)
+
+Residual energy mismatch
+
+Frequency shift (Δν)
+
+Energy release (ΔE)
+
+Interpretive notes
+
+This table is the bridge between:
+
+The geometric collapse tables (Tables 1–4)
+and
+
+The interior‑state tables (Table 6)
+
+It is the only table that accounts for mass‑radius evolution and energy‑frequency outputs.
