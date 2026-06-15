@@ -62,4 +62,5 @@ Verified RAW data provenance
 
 Math‑solver re‑run accuracy values
 
-You can copy/paste this directly into a .csv file. simx_001_050_diagnostics.csv
+You can copy/paste this directly into a .csv file. 
+simx_001_050_diagnostics.txt and simx_051_100_run2_activation_map.csv saved to Github

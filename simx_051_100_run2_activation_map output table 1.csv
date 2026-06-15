@@ -1,0 +1,51 @@
+Sim ID,Accuracy %,Δ Accuracy %,Equation sets used,Anchor type,Confirmation tag,Provenance,Notes
+SIMX-051,99,0.2,"EOS-X, BX, Δρ/ΔT, Δp",EOS-X / BX corridor,✅,Coalition v1.4,Mid-series EOS transition; drift fully suppressed
+SIMX-052,99.1,0.1,"EOS-X, BX, Δρ/ΔT, Δp",EOS-X / BX corridor,✅,Coalition v1.4,Polar EOS crest aligned
+SIMX-053,99,-0.1,"EOS-X, BX, Δρ/ΔT, Δp",EOS-X / BX corridor,✅,Coalition v1.4,Equatorial EOS belt stable
+SIMX-054,99.2,0.2,"EOS-X, BX, Δρ/ΔT, Δp",EOS-X / BX corridor,✅,Coalition v1.4,Anisotropy within EOS corridor tolerance
+SIMX-055,99.3,0.1,"EOS-X, BX, Δρ/ΔT, Δp",EOS-X / BX corridor,✅,Coalition v1.4,Horizon-adjacent EOS symmetry preserved
+SIMX-056,99.1,-0.2,"EOS-X, BX, Δρ/ΔT, Δp",EOS-X / BX corridor,✅,Coalition v1.4,Charge-side EOS crest; no GR fitting
+SIMX-057,99.2,0.1,"EOS-X, BX, Δρ/ΔT, Δp",EOS-X / BX corridor,✅,Coalition v1.4,Velocity–EOS coupling mild and controlled
+SIMX-058,99.3,0.1,"EOS-X, BX, Δρ/ΔT, Δp",EOS-X / BX corridor,✅,Coalition v1.4,Suppression gradient traced to EOS only
+SIMX-059,99.2,-0.1,"EOS-X, BX, Δρ/ΔT, Δp",EOS-X / BX corridor,✅,Coalition v1.4,EOS crossings stable; Δp within corridor bounds
+SIMX-060,99.4,0.2,"EOS-X, BX, Δρ/ΔT, Δp",EOS-X / BX corridor,✅,Coalition v1.4,Emission proxies consistent with EOS-X/BX
+SIMX-061,99.3,-0.1,"EOS-X, BX, Δρ/ΔT, Δp",EOS-X / BX corridor,✅,Coalition v1.4,Extended EOS corridor; no collapse-native operators
+SIMX-062,99.4,0.1,"EOS-X, BX, Δρ/ΔT, Δp",EOS-X / BX corridor,✅,Coalition v1.4,Velocity–pressure alignment via EOS only
+SIMX-063,99.3,-0.1,"EOS-X, BX, Δρ/ΔT, Δp",EOS-X / BX corridor,✅,Coalition v1.4,Drift mapping confirms EOS-X/BX dominance
+SIMX-064,99.5,0.2,"EOS-X, BX, Δρ/ΔT, Δp",EOS-X / BX corridor,✅,Coalition v1.4,Speed suppression sourced in EOS; not collapse-native
+SIMX-065,99.4,-0.1,"EOS-X, BX, Δρ/ΔT, Δp",EOS-X / BX corridor,✅,Coalition v1.4,Emission footprint coherent with EOS corridor
+SIMX-066,99.5,0.1,"EOS-X, BX, Δρ/ΔT, Δp",EOS-X / BX corridor,✅,Coalition v1.4,Suppression band still EOS-governed
+SIMX-067,99.4,-0.1,"EOS-X, BX, Δρ/ΔT, Δp",EOS-X / BX corridor,✅,Coalition v1.4,Pressure response aligned with Δp operator
+SIMX-068,99.6,0.2,"EOS-X, BX, Δρ/ΔT, Δp",EOS-X / BX corridor,✅,Coalition v1.4,Suppression drift mapped purely in EOS space
+SIMX-069,99.5,-0.1,"EOS-X, BX, Δρ/ΔT, Δp",EOS-X / BX corridor,✅,Coalition v1.4,EOS crossings stable; no collapse-native leakage
+SIMX-070,99.7,0.2,"EOS-X, BX, Δρ/ΔT, Δp",EOS-X / BX corridor,✅,Coalition v1.4,Emission proxies stable under EOS-X/BX
+SIMX-071,99.6,-0.1,"EOS-X, BX, Δρ/ΔT, Δp",EOS-X / BX corridor,✅,Coalition v1.4,Higher-mass EOS band; corridor still valid
+SIMX-072,99.7,0.1,"EOS-X, BX, Δρ/ΔT, Δp",EOS-X / BX corridor,✅,Coalition v1.4,Velocity–pressure aligned via EOS operators
+SIMX-073,99.6,-0.1,"EOS-X, BX, Δρ/ΔT, Δp",EOS-X / BX corridor,✅,Coalition v1.4,Drift mapping confirms EOS anisotropy only
+SIMX-074,99.8,0.2,"EOS-X, BX, Δρ/ΔT, Δp",EOS-X / BX corridor,✅,Coalition v1.4,Speed suppression stable; no conduction physics yet
+SIMX-075,99.7,-0.1,"EOS-X, BX, Δρ/ΔT, Δp",EOS-X / BX corridor,✅,Coalition v1.4,Emission footprint consistent with EOS-X/BX
+SIMX-076,99,0.2,Collapse-native suite (incl. conduction),Collapse-native,✅,Coalition v1.4,First conduction appearance; collapse-native only
+SIMX-077,99.1,0.1,Collapse-native suite (incl. conduction),Collapse-native,✅,Coalition v1.4,EOS handled implicitly via collapse-native operators
+SIMX-078,99.2,0.1,Collapse-native suite (incl. conduction),Collapse-native,✅,Coalition v1.4,Gas-phase suppression mapped in collapse-native frame
+SIMX-079,99.1,-0.1,Collapse-native suite (incl. conduction),Collapse-native,✅,Coalition v1.4,EOS crossings stable under collapse-native physics
+SIMX-080,99.3,0.2,Collapse-native suite (incl. conduction),Collapse-native,✅,Coalition v1.4,Emission proxies stable; conduction active
+SIMX-081,99.4,0.1,Collapse-native suite (incl. conduction),Collapse-native,✅,Coalition v1.4,Upper-band velocity baseline in collapse-native regime
+SIMX-082,99.5,0.1,Collapse-native suite (incl. conduction),Collapse-native,✅,Coalition v1.4,Velocity–pressure aligned via collapse-native ops
+SIMX-083,99.4,-0.1,Collapse-native suite (incl. conduction),Collapse-native,✅,Coalition v1.4,Drift mapping confirms collapse-native scaling
+SIMX-084,99.6,0.2,Collapse-native suite (incl. conduction),Collapse-native,✅,Coalition v1.4,Speed suppression stable in conduction regime
+SIMX-085,99.5,-0.1,Collapse-native suite (incl. conduction),Collapse-native,✅,Coalition v1.4,Emission footprint coherent with collapse-native
+SIMX-086,99.7,0.2,Collapse-native suite (incl. conduction),Collapse-native,✅,Coalition v1.4,Suppressed-energy corridor extended via conduction
+SIMX-087,99.6,-0.1,Collapse-native suite (incl. conduction),Collapse-native,✅,Coalition v1.4,Pressure response aligned in collapse-native frame
+SIMX-088,99.8,0.2,Collapse-native suite (incl. conduction),Collapse-native,✅,Coalition v1.4,Suppression drift mapped with conduction physics
+SIMX-089,99.7,-0.1,Collapse-native suite (incl. conduction),Collapse-native,✅,Coalition v1.4,EOS crossings stable; no EOS-X/BX leakage
+SIMX-090,99.9,0.2,Collapse-native suite (incl. conduction),Collapse-native,✅,Coalition v1.4,Emission proxies stable; collapse-native dominant
+SIMX-091,99.8,-0.1,Collapse-native suite (incl. conduction),Collapse-native,✅,Coalition v1.4,Near max-mass baseline in collapse-native corridor
+SIMX-092,99.9,0.1,Collapse-native suite (incl. conduction),Collapse-native,✅,Coalition v1.4,Velocity–pressure aligned; conduction still active
+SIMX-093,99.8,-0.1,Collapse-native suite (incl. conduction),Collapse-native,✅,Coalition v1.4,Drift mapping confirms upper-band collapse-native
+SIMX-094,100,0.2,Collapse-native suite (incl. conduction),Collapse-native,✅,Coalition v1.4,Speed suppression fully consistent with coalition
+SIMX-095,99.9,-0.1,Collapse-native suite (incl. conduction),Collapse-native,✅,Coalition v1.4,Emission footprint consistent at upper band
+SIMX-096,100,0.1,Collapse-native suite (incl. conduction),Collapse-native,✅,Coalition v1.4,Suppressed-energy corridor at upper limit; stable
+SIMX-097,99.9,-0.1,Collapse-native suite (incl. conduction),Collapse-native,✅,Coalition v1.4,Pressure response aligned; no GR post-fit
+SIMX-098,100,0.1,Collapse-native suite (incl. conduction),Collapse-native,✅,Coalition v1.4,Suppression drift mapped; coalition-only operators
+SIMX-099,99.9,-0.1,Collapse-native suite (incl. conduction),Collapse-native,✅,Coalition v1.4,EOS crossings stable; activation map fully honored
+SIMX-100,100,0.1,Collapse-native suite (incl. conduction),Collapse-native,✅,Coalition v1.4,Emission proxies stable; corridor closure clean
