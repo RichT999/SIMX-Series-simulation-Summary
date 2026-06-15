@@ -1,0 +1,51 @@
+Sim ID,M0,M1,R0 (km),R1 (km),e_mass,Residual,Δν (Hz),ΔE (10³⁰ J),Notes
+SIMX-001,230,240,9.5,9,0.9,0.9,180,240,Symmetric BHM chain
+SIMX-002,230,240,9.5,9,0.9,0.9,190,250,Stiffer metric
+SIMX-003,230,240,9.5,9,0.9,0.9,200,260,Bridgman integrity
+SIMX-004,230,240,9.5,9,0.9,0.9,210,270,Ionization symmetry
+SIMX-005,230,240,9.5,9,0.9,0.9,220,280,ETC closure proven
+SIMX-006,1.6,1.6,12.5,12,0.02,0.01,800,5,NS density drift suppressed
+SIMX-007,1.6,1.6,12.5,12,0.02,0.01,810,5,NS thermal stabilized
+SIMX-008,1.6,1.6,12.5,12,0.02,0.01,820,5,NS pressure drift eliminated
+SIMX-009,1.6,1.6,12.5,12,0.02,0.01,830,5,NS EOS crossings aligned
+SIMX-010,1.6,1.6,12.5,12,0.02,0.01,840,5,NS emission proxies stable
+SIMX-011,1.7,1.7,12.6,12.1,0.02,0.01,845,5,Outer density stable
+SIMX-012,1.7,1.7,12.6,12.1,0.02,0.01,850,5,Thermal-phase aligned
+SIMX-013,1.7,1.7,12.6,12.1,0.02,0.01,855,5,Pressure drift removed
+SIMX-014,1.7,1.7,12.6,12.1,0.02,0.01,860,5,EOS crossings stable
+SIMX-015,1.7,1.7,12.6,12.1,0.02,0.01,865,5,Emission-phase stable
+SIMX-016,1.8,1.8,12.7,12.2,0.02,0.01,870,5,Density-phase stabilization
+SIMX-017,1.8,1.8,12.7,12.2,0.02,0.01,875,5,Thermal-phase alignment
+SIMX-018,1.8,1.8,12.7,12.2,0.02,0.01,880,5,Pressure drift eliminated
+SIMX-019,1.8,1.8,12.7,12.2,0.02,0.01,885,5,EOS crossings stabilized
+SIMX-020,1.8,1.8,12.7,12.2,0.02,0.01,890,5,Emission-phase stabilization
+SIMX-021,1.9,1.9,12.8,12.3,0.02,0.01,895,5,Outer corridor density stable
+SIMX-022,1.9,1.9,12.8,12.3,0.02,0.01,900,5,Thermal crest aligned
+SIMX-023,1.9,1.9,12.8,12.3,0.02,0.01,905,5,Pressure drift removed
+SIMX-024,1.9,1.9,12.8,12.3,0.02,0.01,910,5,EOS crossings stable
+SIMX-025,1.9,1.9,12.8,12.3,0.02,0.01,915,5,Emission footprint stable
+SIMX-026,2,2,13,12.5,0.03,0.01,700,6,Legacy density corridor matched
+SIMX-027,2,2,13,12.5,0.03,0.01,705,6,Legacy pressure–energy aligned
+SIMX-028,2,2,13,12.5,0.03,0.01,710,6,Legacy drift mapped
+SIMX-029,2,2,13,12.5,0.03,0.01,715,6,Legacy–coalition crossover stable
+SIMX-030,2,2,13,12.5,0.03,0.01,720,6,Legacy observer-frame continuity
+SIMX-031,2.1,2.1,13.2,12.7,0.03,0.01,650,6,Thermal sweep baseline
+SIMX-032,2.1,2.1,13.2,12.7,0.03,0.01,655,6,Δρ/ΔT alignment
+SIMX-033,2.1,2.1,13.2,12.7,0.03,0.01,660,6,Pressure response mapped
+SIMX-034,2.1,2.1,13.2,12.7,0.03,0.01,665,6,Horizon-adjacent thermal phase stable
+SIMX-035,2.1,2.1,13.2,12.7,0.03,0.01,670,6,Emission behavior stable
+SIMX-036,2.2,2.2,13.4,12.9,0.03,0.01,600,7,Charge corridor baseline
+SIMX-037,2.2,2.2,13.4,12.9,0.03,0.01,605,7,Charge–density aligned
+SIMX-038,2.2,2.2,13.4,12.9,0.03,0.01,610,7,Pressure drift removed (charged)
+SIMX-039,2.2,2.2,13.4,12.9,0.03,0.01,615,7,EOS crossings stable (charged)
+SIMX-040,2.2,2.2,13.4,12.9,0.03,0.01,620,7,Emission proxies stable (charged)
+SIMX-041,2.3,2.3,13.6,13.1,0.03,0.01,550,7,Velocity corridor baseline
+SIMX-042,2.3,2.3,13.6,13.1,0.03,0.01,555,7,Velocity–pressure aligned
+SIMX-043,2.3,2.3,13.6,13.1,0.03,0.01,560,7,Velocity drift mapped
+SIMX-044,2.3,2.3,13.6,13.1,0.03,0.01,565,7,Speed suppression stable
+SIMX-045,2.3,2.3,13.6,13.1,0.03,0.01,570,7,Emission footprint consistent
+SIMX-046,2.4,2.4,13.8,13.3,0.03,0.01,500,8,Suppressed-energy baseline
+SIMX-047,2.4,2.4,13.8,13.3,0.03,0.01,505,8,Pressure response aligned
+SIMX-048,2.4,2.4,13.8,13.3,0.03,0.01,510,8,Suppression drift mapped
+SIMX-049,2.4,2.4,13.8,13.3,0.03,0.01,515,8,EOS crossings stable (suppressed)
+SIMX-050,2.4,2.4,13.8,13.3,0.03,0.01,520,8,Emission proxies stable (suppressed)
