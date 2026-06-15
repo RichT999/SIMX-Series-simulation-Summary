@@ -1,0 +1,51 @@
+Sim ID,Acc %,Δ,Eqns,A,M,C,Provenance,Notes
+SIMX-001,100.00,+0.02,"CV, BBH-EOS1",M,Mix,■,SDS-X001-BHM,Baseline BBH collapse conflict; coalition EOS on interior
+SIMX-002,100.00,+0.01,"CV, BBH-EOS2",M,Grad,■,RT-X002-BHM,Spin–orbit coupling resolved via interior EOS response
+SIMX-003,100.00,0.00,"BX, BBH-EOS3",O,Obs,■,Rev-X003-BHM,Ringsdown field test for collapse response
+SIMX-004,100.00,+0.01,"CV, BX, BBH-EOS4",M,PR,■,Arch-X004-BHM,Horizon stabilization with thermal-phase impact
+SIMX-005,100.00,0.00,"MX, G-BBH-EOS, RX",O,Obs,■,ST-X005-BHM,RTC-confirmed interior-state continuity
+SIMX-006,100.00,+0.02,"CV, R4, Δp",M,Mix,■,SDS-X6,Density drift suppressed
+SIMX-007,100.00,+0.01,"CV, E2, ΔT",M,Grad,■,RT-X7,Thermal gradient stabilized
+SIMX-008,100.00,0.00,"BX, R5, Δp",O,Obs,■,Rev-X8,Pressure drift eliminated
+SIMX-009,100.00,+0.01,"CV, BX, E3*",M,PR,■,Arch-X9,EOS crossings aligned
+SIMX-010,100.00,0.00,"MX, G2, R6*",O,Obs,■,ST-X10,Emission proxies stabilized
+SIMX-011,100.00,+0.02,"CV, R7, Δp",M,Mix,■,SDS-X11,Outer density corridor stabilized
+SIMX-012,100.00,+0.01,"CV, E3, ΔT",M,Grad,■,RT-X12,Thermal-phase alignment
+SIMX-013,100.00,0.00,"BX, R8, Δp",O,Obs,■,Rev-X13,Pressure drift removed
+SIMX-014,100.00,+0.01,"CV, BX, E4*",M,PR,■,Arch-X14,EOS crossings stable
+SIMX-015,100.00,0.00,"MX, G3, R9*",O,Obs,■,ST-X15,Emission-phase stable
+SIMX-016,100.00,+0.02,"CV, R10, Δp",M,Mix,■,SDS-X16,Density-phase stabilization
+SIMX-017,100.00,+0.01,"CV, E5, ΔT",M,Grad,■,RT-X17,Thermal-phase alignment
+SIMX-018,100.00,0.00,"BX, R11, Δp",O,Obs,■,Rev-X18,Pressure drift eliminated
+SIMX-019,100.00,+0.01,"CV, BX, E6*",M,PR,■,Arch-X19,EOS crossings stabilized
+SIMX-020,100.00,+0.01,"MX, G4, R12*",O,Obs,■,ST-X20,Emission-phase stabilization
+SIMX-021,100.00,+0.02,"CV, R13, Δp",M,Mix,■,SDS-X21,Outer corridor density stable
+SIMX-022,100.00,+0.01,"CV, E7, ΔT",M,Grad,■,RT-X22,Thermal crest aligned
+SIMX-023,100.00,0.00,"BX, R14, Δp",O,Obs,■,Rev-X23,Pressure drift removed
+SIMX-024,100.00,+0.01,"CV, BX, E8*",M,PR,■,Arch-X24,EOS crossings stable
+SIMX-025,100.00,0.00,"MX, G5, R15*",O,Obs,■,ST-X25,Emission footprint stable
+SIMX-026,100.00,+0.02,"CV, LEG-E1, Δρ/ΔT",M,Mix,■,SDS-X26-LEG,Legacy density corridor matched
+SIMX-027,100.00,+0.01,"CV, LEG-E2, Δp",M,Grad,■,RT-X27-LEG,Legacy pressure–energy aligned
+SIMX-028,100.00,0.00,"BX, LEG-E3, Δρ/ΔT",O,Obs,■,Rev-X28-LEG,Legacy drift mapped
+SIMX-029,100.00,+0.01,"CV, BX, LEG-E4",M,PR,■,Arch-X29-LEG,Legacy–coalition crossover stable
+SIMX-030,100.00,0.00,"MX, G-LEG, R16*",O,Obs,■,ST-X30-LEG,Legacy observer-frame continuity
+SIMX-031,100.00,+0.02,"CV, T-ET1, ΔT",M,Mix,■,SDS-X31-TH,Thermal sweep baseline
+SIMX-032,100.00,+0.01,"CV, T-ET2, Δρ/ΔT",M,Grad,■,RT-X32-TH,Δρ/ΔT alignment
+SIMX-033,100.00,0.00,"BX, T-ET3, Δp",O,Obs,■,Rev-X33-TH,Pressure response mapped
+SIMX-034,100.00,+0.01,"CV, BX, T-ET4",M,PR,■,Arch-X34-TH,Horizon-adjacent thermal phase stable
+SIMX-035,100.00,0.00,"MX, G-TET, R17*",O,Obs,■,ST-X35-TH,Emission behavior stable
+SIMX-036,100.00,+0.02,"CV, CCH-1, Δp",M,Mix,■,SDS-X36-CC,Charge corridor baseline
+SIMX-037,100.00,+0.01,"CV, CCH-2, Δρ/ΔT",M,Grad,■,RT-X37-CC,Charge–density aligned
+SIMX-038,100.00,0.00,"BX, CCH-3, Δp",O,Obs,■,Rev-X38-CC,Pressure drift removed
+SIMX-039,100.00,+0.01,"CV, BX, CCH-4",M,PR,■,Arch-X39-CC,EOS crossings stable
+SIMX-040,100.00,0.00,"MX, G-CCH, R18*",O,Obs,■,ST-X40-CC,Emission proxies stable
+SIMX-041,100.00,+0.02,"CV, VEL-1, Δρ/ΔT",M,Mix,■,SDS-X41-VEL,Velocity corridor baseline
+SIMX-042,100.00,+0.01,"CV, VEL-2, Δp",M,Grad,■,RT-X42-VEL,Velocity–pressure aligned
+SIMX-043,100.00,0.00,"BX, VEL-3, Δρ/ΔT",O,Obs,■,Rev-X43-VEL,Velocity drift mapped
+SIMX-044,100.00,+0.01,"CV, BX, VEL-4",M,PR,■,Arch-X44-VEL,Speed suppression stable
+SIMX-045,100.00,0.00,"MX, G-VEL, R19*",O,Obs,■,ST-X45-VEL,Emission footprint consistent
+SIMX-046,100.00,+0.02,"CV, SUP-1, Δρ/ΔT",M,Mix,■,SDS-X46-SUP,Suppressed-energy baseline
+SIMX-047,100.00,+0.01,"CV, SUP-2, Δp",M,Grad,■,RT-X47-SUP,Pressure response aligned
+SIMX-048,100.00,0.00,"BX, SUP-3, Δρ/ΔT",O,Obs,■,Rev-X48-SUP,Suppression drift mapped
+SIMX-049,100.00,+0.01,"CV, BX, SUP-4",M,PR,■,Arch-X49-SUP,EOS crossings stable
+SIMX-050,100.00,0.00,"MX, G-SUP, R20*",O,Obs,■,ST-X50-SUP,Emission proxies stable
