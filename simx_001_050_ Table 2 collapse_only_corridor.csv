@@ -1,0 +1,51 @@
+Sim ID,ρ₀ (g/cm³),T₀ (K),P₀ (dyne/cm²),B₀ (G),r₀ (km),Notes
+SIMX-001,1.20×10¹⁴,6.8×10⁸,2.9×10³⁴,3.5×10¹³,12.5,Baseline inputs for collapse-only corridor
+SIMX-002,1.22×10¹⁴,6.9×10⁸,3.0×10³⁴,3.6×10¹³,12.5,Slight thermal rise; early accuracy probe
+SIMX-003,1.24×10¹⁴,7.0×10⁸,3.1×10³⁴,3.7×10¹³,12.4,Pressure-band adjustment to reduce drift
+SIMX-004,1.26×10¹⁴,7.1×10⁸,3.2×10³⁴,3.8×10¹³,12.4,Collapse-corridor tuning; EOS kept implicit
+SIMX-005,1.28×10¹⁴,7.2×10⁸,3.3×10³⁴,3.9×10¹³,12.3,Pre-collapse inputs; halt band identified
+SIMX-006,1.30×10¹⁴,7.3×10⁸,3.4×10³⁴,4.0×10¹³,12.3,Density rise to test drift suppression
+SIMX-007,1.32×10¹⁴,7.4×10⁸,3.5×10³⁴,4.1×10¹³,12.2,Thermal gradient increased; accuracy check
+SIMX-008,1.34×10¹⁴,7.5×10⁸,3.6×10³⁴,4.2×10¹³,12.2,Pressure-band tightened; variance reduced
+SIMX-009,1.36×10¹⁴,7.6×10⁸,3.7×10³⁴,4.3×10¹³,12.1,Collapse radius tuned toward halt band
+SIMX-010,1.38×10¹⁴,7.7×10⁸,3.8×10³⁴,4.4×10¹³,12.1,Pre-halt configuration; drift diagnostics stable
+SIMX-011,1.40×10¹⁴,7.8×10⁸,3.9×10³⁴,4.5×10¹³,12,Density increment probes collapse sensitivity
+SIMX-012,1.42×10¹⁴,7.9×10⁸,4.0×10³⁴,4.6×10¹³,12,Thermal rise tests Δρ/ΔT response
+SIMX-013,1.44×10¹⁴,8.0×10⁸,4.1×10³⁴,4.7×10¹³,11.9,Pressure-band adjustment; drift band narrowed
+SIMX-014,1.46×10¹⁴,8.1×10⁸,4.2×10³⁴,4.8×10¹³,11.9,Radius reduced; halt radius proximity check
+SIMX-015,1.48×10¹⁴,8.2×10⁸,4.3×10³⁴,4.9×10¹³,11.8,Pre-collapse inputs; accuracy band refined
+SIMX-016,1.50×10¹⁴,8.3×10⁸,4.4×10³⁴,5.0×10¹³,11.8,Density rise; collapse threshold exploration
+SIMX-017,1.52×10¹⁴,8.4×10⁸,4.5×10³⁴,5.1×10¹³,11.7,Thermal increment; drift response tested
+SIMX-018,1.54×10¹⁴,8.5×10⁸,4.6×10³⁴,5.2×10¹³,11.7,Pressure-band tightening; variance suppression
+SIMX-019,1.56×10¹⁴,8.6×10⁸,4.7×10³⁴,5.3×10¹³,11.6,Radius shift toward canonical halt band
+SIMX-020,1.58×10¹⁴,8.7×10⁸,4.8×10³⁴,5.4×10¹³,11.6,Pre-collapse inputs; stable drift behavior
+SIMX-021,1.60×10¹⁴,8.8×10⁸,4.9×10³⁴,5.5×10¹³,11.5,Density increment; collapse-only consistency check
+SIMX-022,1.62×10¹⁴,8.9×10⁸,5.0×10³⁴,5.6×10¹³,11.5,Thermal rise; Δρ/ΔT band probed
+SIMX-023,1.64×10¹⁴,9.0×10⁸,5.1×10³⁴,5.7×10¹³,11.4,Pressure-band adjustment; residual drift reduced
+SIMX-024,1.66×10¹⁴,9.1×10⁸,5.2×10³⁴,5.8×10¹³,11.4,Radius tuned; halt radius alignment tested
+SIMX-025,1.68×10¹⁴,9.2×10⁸,5.3×10³⁴,5.9×10¹³,11.3,Pre-collapse inputs; corridor stability confirmed
+SIMX-026,1.70×10¹⁴,9.3×10⁸,5.4×10³⁴,6.0×10¹³,11.3,Density rise; collapse sensitivity refined
+SIMX-027,1.72×10¹⁴,9.4×10⁸,5.5×10³⁴,6.1×10¹³,11.2,Thermal increment; drift band checked
+SIMX-028,1.74×10¹⁴,9.5×10⁸,5.6×10³⁴,6.2×10¹³,11.2,Pressure-band tightening; accuracy improved
+SIMX-029,1.76×10¹⁴,9.6×10⁸,5.7×10³⁴,6.3×10¹³,11.1,Radius shift; halt radius proximity refined
+SIMX-030,1.78×10¹⁴,9.7×10⁸,5.8×10³⁴,6.4×10¹³,11.1,Pre-collapse inputs; drift suppression stable
+SIMX-031,1.80×10¹⁴,9.8×10⁸,5.9×10³⁴,6.5×10¹³,11,Density increment; collapse-only band tested
+SIMX-032,1.82×10¹⁴,9.9×10⁸,6.0×10³⁴,6.6×10¹³,11,Thermal rise; Δρ/ΔT response stable
+SIMX-033,1.84×10¹⁴,1.00×10⁹,6.1×10³⁴,6.7×10¹³,10.9,Pressure-band adjustment; residual drift minimized
+SIMX-034,1.86×10¹⁴,1.01×10⁹,6.2×10³⁴,6.8×10¹³,10.9,Radius tuned; halt radius band confirmed
+SIMX-035,1.88×10¹⁴,1.02×10⁹,6.3×10³⁴,6.9×10¹³,10.8,Pre-collapse inputs; accuracy corridor stable
+SIMX-036,1.90×10¹⁴,1.03×10⁹,6.4×10³⁴,7.0×10¹³,10.8,Density rise; collapse threshold refined
+SIMX-037,1.92×10¹⁴,1.04×10⁹,6.5×10³⁴,7.1×10¹³,10.7,Thermal increment; drift band rechecked
+SIMX-038,1.94×10¹⁴,1.05×10⁹,6.6×10³⁴,7.2×10¹³,10.7,Pressure-band tightening; variance suppressed
+SIMX-039,1.96×10¹⁴,1.06×10⁹,6.7×10³⁴,7.3×10¹³,10.6,Radius shift; halt radius alignment refined
+SIMX-040,1.98×10¹⁴,1.07×10⁹,6.8×10³⁴,7.4×10¹³,10.6,Pre-collapse inputs; stable collapse-only behavior
+SIMX-041,2.00×10¹⁴,1.08×10⁹,6.9×10³⁴,7.5×10¹³,10.5,Density increment; collapse band consistency
+SIMX-042,2.02×10¹⁴,1.09×10⁹,7.0×10³⁴,7.6×10¹³,10.5,Thermal rise; Δρ/ΔT band verified
+SIMX-043,2.04×10¹⁴,1.10×10⁹,7.1×10³⁴,7.7×10¹³,10.4,Pressure-band adjustment; drift nearly eliminated
+SIMX-044,2.06×10¹⁴,1.11×10⁹,7.2×10³⁴,7.8×10¹³,10.4,Radius tuned; halt radius corridor locked
+SIMX-045,2.08×10¹⁴,1.12×10⁹,7.3×10³⁴,7.9×10¹³,10.3,Pre-collapse inputs; accuracy band stabilized
+SIMX-046,2.10×10¹⁴,1.13×10⁹,7.4×10³⁴,8.0×10¹³,10.3,Density rise; final collapse-only sensitivity pass
+SIMX-047,2.12×10¹⁴,1.14×10⁹,7.5×10³⁴,8.1×10¹³,10.2,Thermal increment; end-of-block drift check
+SIMX-048,2.14×10¹⁴,1.15×10⁹,7.6×10³⁴,8.2×10¹³,10.2,Pressure-band tightening; residuals suppressed
+SIMX-049,2.16×10¹⁴,1.16×10⁹,7.7×10³⁴,8.3×10¹³,10.2,Radius shift; halt radius alignment verified
+SIMX-050,2.18×10¹⁴,1.17×10⁹,7.8×10³⁴,8.4×10¹³,10.2,Pre-collapse inputs; collapse-only corridor complete
