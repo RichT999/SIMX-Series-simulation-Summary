@@ -1,0 +1,51 @@
+Sim ID,rho_0 (g/cm³),T_0 (K),P_0 (dyne/cm²),B_0 (G),r_0 (km),Notes
+SIMX-051,1.7×10¹⁴,8.3×10⁸,3.9×10³⁴,5.6×10¹³,12,EOS-band adjustment
+SIMX-052,1.71×10¹⁴,8.35×10⁸,3.92×10³⁴,5.65×10¹³,12,Slight thermal rise
+SIMX-053,1.72×10¹⁴,8.4×10⁸,3.94×10³⁴,5.7×10¹³,11.9,Pressure-band adjustment
+SIMX-054,1.73×10¹⁴,8.45×10⁸,3.96×10³⁴,5.75×10¹³,11.9,EOS-corridor tuning
+SIMX-055,1.74×10¹⁴,8.5×10⁸,3.98×10³⁴,5.8×10¹³,11.9,Moderate EOS shift
+SIMX-056,1.75×10¹⁴,8.55×10⁸,4.00×10³⁴,5.85×10¹³,11.8,Temperature-band rise
+SIMX-057,1.76×10¹⁴,8.6×10⁸,4.02×10³⁴,5.9×10¹³,11.8,Pressure tuning
+SIMX-058,1.77×10¹⁴,8.65×10⁸,4.04×10³⁴,5.95×10¹³,11.8,EOS refinement
+SIMX-059,1.78×10¹⁴,8.7×10⁸,4.06×10³⁴,6.0×10¹³,11.7,Slight EOS rise
+SIMX-060,1.79×10¹⁴,8.75×10⁸,4.08×10³⁴,6.05×10¹³,11.7,Pre-transition inputs
+SIMX-061,1.80×10¹⁴,8.8×10⁸,4.10×10³⁴,6.1×10¹³,11.7,EOS-band adjustment
+SIMX-062,1.81×10¹⁴,8.85×10⁸,4.12×10³⁴,6.15×10¹³,11.6,Slight thermal rise
+SIMX-063,1.82×10¹⁴,8.9×10⁸,4.14×10³⁴,6.2×10¹³,11.6,Pressure-band adjustment
+SIMX-064,1.83×10¹⁴,8.95×10⁸,4.16×10³⁴,6.25×10¹³,11.6,EOS-corridor tuning
+SIMX-065,1.84×10¹⁴,9.0×10⁸,4.18×10³⁴,6.3×10¹³,11.5,Moderate EOS shift
+SIMX-066,1.85×10¹⁴,9.05×10⁸,4.20×10³⁴,6.35×10¹³,11.5,Temperature-band rise
+SIMX-067,1.86×10¹⁴,9.1×10⁸,4.22×10³⁴,6.4×10¹³,11.5,Pressure tuning
+SIMX-068,1.87×10¹⁴,9.15×10⁸,4.24×10³⁴,6.45×10¹³,11.4,EOS refinement
+SIMX-069,1.88×10¹⁴,9.2×10⁸,4.26×10³⁴,6.5×10¹³,11.4,Slight EOS rise
+SIMX-070,1.89×10¹⁴,9.25×10⁸,4.28×10³⁴,6.55×10¹³,11.4,Pre-transition inputs
+SIMX-071,1.90×10¹⁴,9.3×10⁸,4.30×10³⁴,6.6×10¹³,11.3,EOS-band adjustment
+SIMX-072,1.91×10¹⁴,9.35×10⁸,4.32×10³⁴,6.65×10¹³,11.3,Slight thermal rise
+SIMX-073,1.92×10¹⁴,9.4×10⁸,4.34×10³⁴,6.7×10¹³,11.3,Pressure-band adjustment
+SIMX-074,1.93×10¹⁴,9.45×10⁸,4.36×10³⁴,6.75×10¹³,11.2,EOS-corridor tuning
+SIMX-075,1.94×10¹⁴,9.5×10⁸,4.38×10³⁴,6.8×10¹³,11.2,Pre-collapse inputs
+SIMX-076,1.95×10¹⁴,9.6×10⁸,4.40×10³⁴,7.0×10¹³,11.1,Collapse-band shift
+SIMX-077,1.96×10¹⁴,9.7×10⁸,4.42×10³⁴,7.1×10¹³,11.1,Slight thermal rise
+SIMX-078,1.97×10¹⁴,9.8×10⁸,4.44×10³⁴,7.2×10¹³,11,Pressure-band adjustment
+SIMX-079,1.98×10¹⁴,9.9×10⁸,4.46×10³⁴,7.3×10¹³,11,Collapse-corridor tuning
+SIMX-080,1.99×10¹⁴,1.00×10⁹,4.48×10³⁴,7.4×10¹³,11,Pre-collapse inputs
+SIMX-081,2.00×10¹⁴,1.01×10⁹,4.50×10³⁴,7.5×10¹³,10.9,Collapse-band shift
+SIMX-082,2.01×10¹⁴,1.02×10⁹,4.52×10³⁴,7.6×10¹³,10.9,Slight thermal rise
+SIMX-083,2.02×10¹⁴,1.03×10⁹,4.54×10³⁴,7.7×10¹³,10.8,Pressure-band adjustment
+SIMX-084,2.03×10¹⁴,1.04×10⁹,4.56×10³⁴,7.8×10¹³,10.8,Collapse-corridor tuning
+SIMX-085,2.04×10¹⁴,1.05×10⁹,4.58×10³⁴,7.9×10¹³,10.8,Pre-collapse inputs
+SIMX-086,2.05×10¹⁴,1.06×10⁹,4.60×10³⁴,8.0×10¹³,10.7,Collapse-band shift
+SIMX-087,2.06×10¹⁴,1.07×10⁹,4.62×10³⁴,8.1×10¹³,10.7,Slight thermal rise
+SIMX-088,2.07×10¹⁴,1.08×10⁹,4.64×10³⁴,8.2×10¹³,10.6,Pressure-band adjustment
+SIMX-089,2.08×10¹⁴,1.09×10⁹,4.66×10³⁴,8.3×10¹³,10.6,Collapse-corridor tuning
+SIMX-090,2.09×10¹⁴,1.10×10⁹,4.68×10³⁴,8.4×10¹³,10.6,Pre-collapse inputs
+SIMX-091,2.10×10¹⁴,1.11×10⁹,4.70×10³⁴,8.5×10¹³,10.5,Collapse-band shift
+SIMX-092,2.11×10¹⁴,1.12×10⁹,4.72×10³⁴,8.6×10¹³,10.5,Slight thermal rise
+SIMX-093,2.12×10¹⁴,1.13×10⁹,4.74×10³⁴,8.7×10¹³,10.4,Pressure-band adjustment
+SIMX-094,2.13×10¹⁴,1.14×10⁹,4.76×10³⁴,8.8×10¹³,10.4,Collapse-corridor tuning
+SIMX-095,2.14×10¹⁴,1.15×10⁹,4.78×10³⁴,8.9×10¹³,10.4,Pre-collapse inputs
+SIMX-096,2.15×10¹⁴,1.16×10⁹,4.80×10³⁴,9.0×10¹³,10.3,Collapse-band shift
+SIMX-097,2.16×10¹⁴,1.17×10⁹,4.82×10³⁴,9.1×10¹³,10.3,Slight thermal rise
+SIMX-098,2.17×10¹⁴,1.18×10⁹,4.84×10³⁴,9.2×10¹³,10.2,Pressure-band adjustment
+SIMX-099,2.18×10¹⁴,1.19×10⁹,4.86×10³⁴,9.3×10¹³,10.2,Collapse-corridor tuning
+SIMX-100,2.19×10¹⁴,1.20×10⁹,4.88×10³⁴,9.4×10¹³,10.2,Pre-collapse inputs
