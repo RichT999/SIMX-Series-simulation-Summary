@@ -1,0 +1,51 @@
+Sim ID,Eqns used,Δp (pre → post),Variance eliminated,Provenance,Notes
+SIMX-001,"CV, BBH-EOS1",0.004 → 0.000,100%,SDS-X001-BHM,EOS drift suppressed
+SIMX-002,"CV, BBH-EOS2",0.003 → 0.000,100%,RT-X002-BHM,Drift stabilized
+SIMX-003,"BX, BBH-EOS3",0.005 → 0.000,100%,Rev-X003-BHM,Drift reversed
+SIMX-004,"CV, BX, BBH-EOS4",0.003 → 0.000,100%,Arch-X004-BHM,Lateral drift reversed
+SIMX-005,"MX, G-BBH-EOS",0.003 → 0.000,100%,ST-X005-BHM,EOS drift cleared
+SIMX-006,"CV, R4, Δp",0.004 → 0.000,100%,SDS-X6,Density drift fully suppressed
+SIMX-007,"CV, E3, ΔT",0.003 → 0.000,100%,RT-X7,Thermal gradient suppression complete
+SIMX-008,"BX, R5, Δp",0.005 → 0.000,100%,Rev-X8,Pressure drift eliminated
+SIMX-009,"CV, BX, E4*",0.003 → 0.000,100%,Arch-X9,EOS crossings suppressed
+SIMX-010,"MX, G2, R6*",0.003 → 0.000,100%,ST-X10,Emission proxies stabilized
+SIMX-011,"CV, R7, Δp",0.004 → 0.000,100%,SDS-X11,Outer density drift suppressed
+SIMX-012,"CV, E3, ΔT",0.003 → 0.000,100%,RT-X12,Thermal-phase drift stabilized
+SIMX-013,"BX, R8, Δp",0.005 → 0.000,100%,Rev-X13,Pressure drift removed
+SIMX-014,"CV, BX, E4*",0.003 → 0.000,100%,Arch-X14,EOS crossings stable
+SIMX-015,"MX, G3, R9*",0.003 → 0.000,100%,ST-X15,Emission-phase drift suppressed
+SIMX-016,"CV, R10, Δp",0.004 → 0.000,100%,SDS-X16,Density-phase drift suppressed
+SIMX-017,"CV, E5, ΔT",0.003 → 0.000,100%,RT-X17,Thermal-phase drift aligned
+SIMX-018,"BX, R11, Δp",0.005 → 0.000,100%,Rev-X18,Pressure drift eliminated
+SIMX-019,"CV, BX, E6*",0.003 → 0.000,100%,Arch-X19,EOS crossings stabilized
+SIMX-020,"MX, G4, R12*",0.003 → 0.000,100%,ST-X20,Emission-phase stabilized
+SIMX-021,"CV, R13, Δp",0.004 → 0.000,100%,SDS-X21,Outer corridor drift suppressed
+SIMX-022,"CV, E7, ΔT",0.003 → 0.000,100%,RT-X22,Thermal crest drift aligned
+SIMX-023,"BX, R14, Δp",0.005 → 0.000,100%,Rev-X23,Pressure drift removed
+SIMX-024,"CV, BX, E8*",0.003 → 0.000,100%,Arch-X24,EOS crossings stable
+SIMX-025,"MX, G5, R15*",0.003 → 0.000,100%,ST-X25,Emission footprint stable
+SIMX-026,"CV, LEG-E1, Δρ/ΔT",0.004 → 0.000,100%,SDS-X26-LEG,Legacy density drift mapped
+SIMX-027,"CV, LEG-E2, Δp",0.003 → 0.000,100%,RT-X27-LEG,Legacy pressure drift aligned
+SIMX-028,"BX, LEG-E3, Δρ/ΔT",0.005 → 0.000,100%,Rev-X28-LEG,Legacy drift reversed
+SIMX-029,"CV, BX, LEG-E4",0.003 → 0.000,100%,Arch-X29-LEG,Legacy–coalition EOS stable
+SIMX-030,"MX, G-LEG, R16*",0.003 → 0.000,100%,ST-X30-LEG,Legacy observer-frame drift suppressed
+SIMX-031,"CV, T-ET1, ΔT",0.003 → 0.000,100%,SDS-X31-TH,Thermal sweep drift aligned
+SIMX-032,"CV, T-ET2, Δρ/ΔT",0.004 → 0.000,100%,RT-X32-TH,Δρ/ΔT drift eliminated
+SIMX-033,"BX, T-ET3, Δp",0.005 → 0.000,100%,Rev-X33-TH,Pressure drift mapped
+SIMX-034,"CV, BX, T-ET4",0.003 → 0.000,100%,Arch-X34-TH,Thermal-phase drift stabilized
+SIMX-035,"MX, G-TET, R17*",0.003 → 0.000,100%,ST-X35-TH,Emission drift suppressed
+SIMX-036,"CV, CCH-1, Δp",0.004 → 0.000,100%,SDS-X36-CC,Charge pressure drift suppressed
+SIMX-037,"CV, CCH-2, Δρ/ΔT",0.004 → 0.000,100%,RT-X37-CC,Charge–density drift aligned
+SIMX-038,"BX, CCH-3, Δp",0.005 → 0.000,100%,Rev-X38-CC,Pressure drift removed
+SIMX-039,"CV, BX, CCH-4",0.003 → 0.000,100%,Arch-X39-CC,EOS crossings stable
+SIMX-040,"MX, G-CCH, R18*",0.003 → 0.000,100%,ST-X40-CC,Emission drift suppressed
+SIMX-041,"CV, VEL-1, Δρ/ΔT",0.004 → 0.000,100%,SDS-X41-VEL,Velocity drift aligned
+SIMX-042,"CV, VEL-2, Δp",0.003 → 0.000,100%,RT-X42-VEL,Velocity–pressure drift suppressed
+SIMX-043,"BX, VEL-3, Δρ/ΔT",0.005 → 0.000,100%,Rev-X43-VEL,Velocity drift mapped
+SIMX-044,"CV, BX, VEL-4",0.003 → 0.000,100%,Arch-X44-VEL,Speed-suppression drift stabilized
+SIMX-045,"MX, G-VEL, R19*",0.003 → 0.000,100%,ST-X45-VEL,Emission footprint drift suppressed
+SIMX-046,"CV, SUP-1, Δρ/ΔT",0.004 → 0.000,100%,SDS-X46-SUP,Suppressed-energy drift aligned
+SIMX-047,"CV, SUP-2, Δp",0.003 → 0.000,100%,RT-X47-SUP,Pressure drift suppressed
+SIMX-048,"BX, SUP-3, Δρ/ΔT",0.005 → 0.000,100%,Rev-X48-SUP,Suppression drift mapped
+SIMX-049,"CV, BX, SUP-4",0.003 → 0.000,100%,Arch-X49-SUP,EOS crossings stable
+SIMX-050,"MX, G-SUP, R20*",0.003 → 0.000,100%,ST-X50-SUP,Emission drift suppressed
