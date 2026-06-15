@@ -1,0 +1,51 @@
+Sim ID,Provenance strip,Case type,Corridor notes
+SIMX-001,SDS-X001-BHM,BHM,Baseline BBH corridor; EOS drift suppressed
+SIMX-002,RT-X002-BHM,BHM,Spin–orbit corridor aligned
+SIMX-003,Rev-X003-BHM,BHM,Ringsdown corridor stable
+SIMX-004,Arch-X004-BHM,BHM,Horizon corridor stabilized
+SIMX-005,ST-X005-BHM,BHM,Interior continuity corridor verified
+SIMX-006,SDS-X6,NS,"Density drift reduced to 0.000, rₐ = 12.4 km"
+SIMX-007,RT-X7,NS,"Thermal gradient suppression complete, rₐ = 11.9 km"
+SIMX-008,Rev-X8,NS,"Pressure drift eliminated, rₐ = 12.2 km"
+SIMX-009,Arch-X9,NS,"EOS crossings suppressed, rₐ = 12.1 km"
+SIMX-010,ST-X10,NS,"Emission proxies stabilized, rₐ = 12.3 km"
+SIMX-011,SDS-X11,NS,Outer density corridor stabilized
+SIMX-012,RT-X12,NS,Thermal-phase corridor aligned
+SIMX-013,Rev-X13,NS,Pressure drift removed
+SIMX-014,Arch-X14,NS,EOS crossings stable
+SIMX-015,ST-X15,NS,Emission-phase corridor stable
+SIMX-016,SDS-X16,NS,Density-phase corridor stabilized
+SIMX-017,RT-X17,NS,Thermal-phase corridor aligned
+SIMX-018,Rev-X18,NS,Pressure drift eliminated
+SIMX-019,Arch-X19,NS,EOS crossings stabilized
+SIMX-020,ST-X20,NS,Emission-phase stabilized
+SIMX-021,SDS-X21,NS,Outer corridor density stable
+SIMX-022,RT-X22,NS,Thermal crest aligned
+SIMX-023,Rev-X23,NS,Pressure drift removed
+SIMX-024,Arch-X24,NS,EOS crossings stable
+SIMX-025,ST-X25,NS,Emission footprint stable
+SIMX-026,SDS-X26-LEG,LEG,Legacy density corridor matched
+SIMX-027,RT-X27-LEG,LEG,Legacy pressure–energy aligned
+SIMX-028,Rev-X28-LEG,LEG,Legacy drift mapped
+SIMX-029,Arch-X29-LEG,LEG,Legacy–coalition crossover stable
+SIMX-030,ST-X30-LEG,LEG,Legacy observer-frame continuity
+SIMX-031,SDS-X31-TH,TH,Thermal sweep corridor baseline
+SIMX-032,RT-X32-TH,TH,Δρ/ΔT corridor aligned
+SIMX-033,Rev-X33-TH,TH,Pressure response mapped
+SIMX-034,Arch-X34-TH,TH,Horizon-adjacent thermal corridor stable
+SIMX-035,ST-X35-TH,TH,Emission behavior stable
+SIMX-036,SDS-X36-CC,CC,Charge corridor baseline
+SIMX-037,RT-X37-CC,CC,Charge–density aligned
+SIMX-038,Rev-X38-CC,CC,Pressure drift removed
+SIMX-039,Arch-X39-CC,CC,EOS crossings stable
+SIMX-040,ST-X40-CC,CC,Emission proxies stable
+SIMX-041,SDS-X41-VEL,VEL,Velocity corridor baseline
+SIMX-042,RT-X42-VEL,VEL,Velocity–pressure aligned
+SIMX-043,Rev-X43-VEL,VEL,Velocity drift mapped
+SIMX-044,Arch-X44-VEL,VEL,Speed suppression stable
+SIMX-045,ST-X45-VEL,VEL,Emission footprint consistent
+SIMX-046,SDS-X46-SUP,SUP,Suppressed-energy baseline
+SIMX-047,RT-X47-SUP,SUP,Pressure response aligned
+SIMX-048,Rev-X48-SUP,SUP,Suppression drift mapped
+SIMX-049,Arch-X49-SUP,SUP,EOS crossings stable
+SIMX-050,ST-X50-SUP,SUP,Emission proxies stable
