@@ -1,0 +1,20 @@
+⭐ The final, correct Table 6 column set
+Here it is in its clean, canonical SIMX form:
+
+Sim ID
+
+A_beam (km)
+
+Core density ρₐ
+
+Core temp Tₐ
+
+Core pressure Pₐ
+
+Plasma velocity scale
+
+Core B field
+
+Collapse/EOS phase
+
+Notes
