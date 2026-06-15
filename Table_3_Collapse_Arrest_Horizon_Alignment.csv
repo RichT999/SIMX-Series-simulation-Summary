@@ -1,0 +1,51 @@
+Sim ID,Eqns used,rₕ (km),ΔT/ΔP ratio,Provenance,Notes
+SIMX-001,"CV, BBH-EOS1",9.8,1.00,SDS-X001-BHM,Horizon alignment stable
+SIMX-002,"CV, BBH-EOS2",9.7,1.00,RT-X002-BHM,Arrest radius sealed
+SIMX-003,"BX, BBH-EOS3",9.9,1.00,Rev-X003-BHM,Collapse arrest confirmed
+SIMX-004,"CV, BX, BBH-EOS4",9.6,1.00,Arch-X004-BHM,Horizon variance eliminated
+SIMX-005,"MX, G-BBH-EOS",9.7,1.00,ST-X005-BHM,Emission collapse aligned
+SIMX-006,"CV, R4, Δp",12.4,1.00,SDS-X6,Halt radius aligned with EOS
+SIMX-007,"CV, E3, ΔT",11.9,1.00,RT-X7,Arrest radius sealed
+SIMX-008,"BX, R5, Δp",12.2,1.00,Rev-X8,Drift arrested
+SIMX-009,"CV, BX, E4*",12.1,1.00,Arch-X9,Variance arrested
+SIMX-010,"MX, G2, R6*",12.3,1.00,ST-X10,Emission collapse arrested
+SIMX-011,"CV, R7, Δp",12.5,1.00,SDS-X11,Outer corridor arrest stable
+SIMX-012,"CV, E3, ΔT",12.0,1.00,RT-X12,Thermal-phase arrest aligned
+SIMX-013,"BX, R8, Δp",12.3,1.00,Rev-X13,Pressure arrest confirmed
+SIMX-014,"CV, BX, E4*",12.2,1.00,Arch-X14,EOS arrest stable
+SIMX-015,"MX, G3, R9*",12.4,1.00,ST-X15,Emission-phase arrest stable
+SIMX-016,"CV, R10, Δp",12.6,1.00,SDS-X16,Density-phase arrest aligned
+SIMX-017,"CV, E5, ΔT",12.5,1.00,RT-X17,Thermal-phase arrest aligned
+SIMX-018,"BX, R11, Δp",12.4,1.00,Rev-X18,Pressure arrest eliminated
+SIMX-019,"CV, BX, E6*",12.3,1.00,Arch-X19,EOS arrest stabilized
+SIMX-020,"MX, G4, R12*",12.5,1.00,ST-X20,Emission-phase arrest stable
+SIMX-021,"CV, R13, Δp",12.7,1.00,SDS-X21,Outer corridor arrest aligned
+SIMX-022,"CV, E7, ΔT",12.6,1.00,RT-X22,Thermal crest arrest aligned
+SIMX-023,"BX, R14, Δp",12.5,1.00,Rev-X23,Pressure arrest removed
+SIMX-024,"CV, BX, E8*",12.4,1.00,Arch-X24,EOS arrest stable
+SIMX-025,"MX, G5, R15*",12.6,1.00,ST-X25,Emission footprint arrest stable
+SIMX-026,"CV, LEG-E1, Δρ/ΔT",12.8,1.00,SDS-X26-LEG,Legacy density arrest aligned
+SIMX-027,"CV, LEG-E2, Δp",12.7,1.00,RT-X27-LEG,Legacy pressure arrest aligned
+SIMX-028,"BX, LEG-E3, Δρ/ΔT",12.6,1.00,Rev-X28-LEG,Legacy drift arrest mapped
+SIMX-029,"CV, BX, LEG-E4",12.7,1.00,Arch-X29-LEG,Legacy–coalition arrest stable
+SIMX-030,"MX, G-LEG, R16*",12.6,1.00,ST-X30-LEG,Legacy observer-frame arrest aligned
+SIMX-031,"CV, T-ET1, ΔT",12.9,1.00,SDS-X31-TH,Thermal sweep arrest baseline
+SIMX-032,"CV, T-ET2, Δρ/ΔT",12.8,1.00,RT-X32-TH,Δρ/ΔT arrest aligned
+SIMX-033,"BX, T-ET3, Δp",12.7,1.00,Rev-X33-TH,Pressure arrest mapped
+SIMX-034,"CV, BX, T-ET4",12.8,1.00,Arch-X34-TH,Thermal-phase arrest stable
+SIMX-035,"MX, G-TET, R17*",12.7,1.00,ST-X35-TH,Emission arrest stable
+SIMX-036,"CV, CCH-1, Δp",13.0,1.00,SDS-X36-CC,Charge corridor arrest aligned
+SIMX-037,"CV, CCH-2, Δρ/ΔT",12.9,1.00,RT-X37-CC,Charge–density arrest aligned
+SIMX-038,"BX, CCH-3, Δp",12.8,1.00,Rev-X38-CC,Pressure arrest removed
+SIMX-039,"CV, BX, CCH-4",12.9,1.00,Arch-X39-CC,EOS arrest stable
+SIMX-040,"MX, G-CCH, R18*",12.8,1.00,ST-X40-CC,Emission arrest stable
+SIMX-041,"CV, VEL-1, Δρ/ΔT",13.1,1.00,SDS-X41-VEL,Velocity corridor arrest aligned
+SIMX-042,"CV, VEL-2, Δp",13.0,1.00,RT-X42-VEL,Velocity–pressure arrest aligned
+SIMX-043,"BX, VEL-3, Δρ/ΔT",12.9,1.00,Rev-X43-VEL,Velocity drift arrest mapped
+SIMX-044,"CV, BX, VEL-4",13.0,1.00,Arch-X44-VEL,Speed suppression arrest stable
+SIMX-045,"MX, G-VEL, R19*",12.9,1.00,ST-X45-VEL,Emission footprint arrest stable
+SIMX-046,"CV, SUP-1, Δρ/ΔT",13.2,1.00,SDS-X46-SUP,Suppressed-energy arrest aligned
+SIMX-047,"CV, SUP-2, Δp",13.1,1.00,RT-X47-SUP,Pressure arrest suppressed
+SIMX-048,"BX, SUP-3, Δρ/ΔT",13.0,1.00,Rev-X48-SUP,Suppression drift arrest mapped
+SIMX-049,"CV, BX, SUP-4",13.1,1.00,Arch-X49-SUP,EOS arrest stable
+SIMX-050,"MX, G-SUP, R20*",13.0,1.00,ST-X50-SUP,Emission arrest stable
