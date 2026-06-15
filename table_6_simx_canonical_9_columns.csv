@@ -6,7 +6,7 @@ SIMX-004,9.1,8.0×10¹⁴,7.0×10¹¹,1.9×10³⁴,0.38c,8.0×10¹⁶,C-BH-3,Hig
 SIMX-005,9.1,7.6×10¹⁴,6.3×10¹¹,1.8×10³⁴,0.32c,7.3×10¹⁶,C-BH-2,Continuity through collapse
 SIMX-006,12.2,3.0×10¹⁴,1.0×10⁸,3.0×10³³,0.20c,1.0×10¹⁵,C-NS-1,Density drift suppressed
 SIMX-007,11.9,3.1×10¹⁴,1.1×10⁸,3.1×10³³,0.21c,1.1×10¹⁵,C-NS-1,Thermal gradient stabilized
-SIMX-008,12.0,3.2×10¹⁴,1.1×10⁸,3.2×10³³,0.21c,1.1×10¹⁵,C-NS-1,Pressure drift eliminated
+SIMX-008,12,3.2×10¹⁴,1.1×10⁸,3.2×10³³,0.21c,1.1×10¹⁵,C-NS-1,Pressure drift eliminated
 SIMX-009,12.1,3.3×10¹⁴,1.2×10⁸,3.3×10³³,0.22c,1.2×10¹⁵,C-NS-1,EOS crossings suppressed
 SIMX-010,12.1,3.4×10¹⁴,1.2×10⁸,3.4×10³³,0.22c,1.2×10¹⁵,C-NS-1,Emission proxies stabilized
 SIMX-011,12.3,3.5×10¹⁴,1.3×10⁸,3.5×10³³,0.23c,1.3×10¹⁵,C-NS-2,Outer density corridor stable
@@ -44,8 +44,8 @@ SIMX-042,12.9,6.6×10¹⁴,2.8×10⁸,6.6×10³³,0.38c,2.8×10¹⁵,C-VEL-1,Vel
 SIMX-043,12.9,6.7×10¹⁴,2.9×10⁸,6.7×10³³,0.39c,2.9×10¹⁵,C-VEL-1,Velocity drift mapped
 SIMX-044,12.9,6.8×10¹⁴,2.9×10⁸,6.8×10³³,0.39c,2.9×10¹⁵,C-VEL-1,Speed suppression stable
 SIMX-045,12.9,6.9×10¹⁴,3.0×10⁸,6.9×10³³,0.40c,3.0×10¹⁵,C-VEL-1,Emission footprint consistent
-SIMX-046,13.0,7.0×10¹⁴,3.0×10⁸,7.0×10³³,0.40c,3.0×10¹⁵,C-SUP-1,Suppressed‑energy baseline
-SIMX-047,13.0,7.1×10¹⁴,3.1×10⁸,7.1×10³³,0.41c,3.1×10¹⁵,C-SUP-1,Pressure response aligned
-SIMX-048,13.0,7.2×10¹⁴,3.1×10⁸,7.2×10³³,0.41c,3.1×10¹⁵,C-SUP-1,Suppression drift mapped
-SIMX-049,13.0,7.3×10¹⁴,3.2×10⁸,7.3×10³³,0.42c,3.2×10¹⁵,C-SUP-1,EOS crossings stable
-SIMX-050,13.0,7.4×10¹⁴,3.2×10⁸,7.4×10³³,0.42c,3.2×10¹⁵,C-SUP-1,Emission proxies stable
+SIMX-046,13,7.0×10¹⁴,3.0×10⁸,7.0×10³³,0.40c,3.0×10¹⁵,C-SUP-1,Suppressed‑energy baseline
+SIMX-047,13,7.1×10¹⁴,3.1×10⁸,7.1×10³³,0.41c,3.1×10¹⁵,C-SUP-1,Pressure response aligned
+SIMX-048,13,7.2×10¹⁴,3.1×10⁸,7.2×10³³,0.41c,3.1×10¹⁵,C-SUP-1,Suppression drift mapped
+SIMX-049,13,7.3×10¹⁴,3.2×10⁸,7.3×10³³,0.42c,3.2×10¹⁵,C-SUP-1,EOS crossings stable
+SIMX-050,13,7.4×10¹⁴,3.2×10⁸,7.4×10³³,0.42c,3.2×10¹⁵,C-SUP-1,Emission proxies stable
