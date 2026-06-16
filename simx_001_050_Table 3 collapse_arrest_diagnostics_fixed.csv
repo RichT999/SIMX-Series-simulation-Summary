@@ -1,0 +1,51 @@
+Sim ID,Eqns used,rₕ (km),ΔT/ΔP ratio,Provenance,Notes
+SIMX-001,"CV,R#,Δp",12.5,1,SDS-X1 NS,Halt radius aligned with collapse band
+SIMX-002,"CV,E1,ΔT",12.5,1,RT-X2 NS,Arrest radius sealed for thermal rise
+SIMX-003,"CV,R#,Δp",12.4,1,Rev-X3 NS,Pressure adjustment reduced drift at halt
+SIMX-004,"CV,E1,ΔT",12.4,1,Arch-X4 NS,Collapse corridor tuning confirmed
+SIMX-005,"CV,R#,Δp",12.3,1,ST-X5 NS,Pre-collapse halt band identified
+SIMX-006,"CV,R#,Δp",12.3,1,SDS-X6 NS,Halt radius aligned with density rise
+SIMX-007,"CV,E1,ΔT",12.2,1,RT-X7 NS,Arrest radius sealed under thermal gradient
+SIMX-008,"CV,R#,Δp",12.2,1,Rev-X8 NS,Pressure-band tightening arrested drift
+SIMX-009,"CV,E1,ΔT",12.1,1,Arch-X9 NS,Radius tuning stabilized halt corridor
+SIMX-010,"CV,R#,Δp",12.1,1,ST-X10 NS,Pre-halt configuration confirmed stable collapse
+SIMX-011,"CV,MX,R#",12,1,SDS-X11 NS,Halt radius aligned with MX coupling
+SIMX-012,"CV,MX,E1",12,1,RT-X12 NS,Arrest radius sealed; Δρ/ΔT stable
+SIMX-013,"CV,MX,R#",11.9,1,Rev-X13 NS,Pressure-band adjustment arrested variance
+SIMX-014,"CV,MX,E1",11.9,1,Arch-X14 NS,Radius reduction confirmed halt proximity
+SIMX-015,"CV,MX,R#",11.8,1,ST-X15 NS,Pre-collapse halt band refined
+SIMX-016,"CV,MX,R#",11.8,1,SDS-X16 NS,Halt radius aligned with threshold scan
+SIMX-017,"CV,MX,E1",11.7,1,RT-X17 NS,Arrest radius sealed under thermal increment
+SIMX-018,"CV,MX,R#",11.7,1,Rev-X18 NS,Pressure tightening suppressed drift
+SIMX-019,"CV,MX,E1",11.6,1,Arch-X19 NS,Radius shift locked halt corridor
+SIMX-020,"CV,MX,R#",11.6,1,ST-X20 NS,Pre-collapse halt inputs stable
+SIMX-021,"CV,MX,E2",11.5,1,SDS-X21 NS,Halt radius aligned with E2 refinement
+SIMX-022,"CV,MX,E2",11.5,1,RT-X22 NS,Arrest radius sealed; ΔT/ΔP band verified
+SIMX-023,"CV,MX,R#",11.4,1,Rev-X23 NS,Pressure-band adjustment minimized residual drift
+SIMX-024,"CV,MX,E2",11.4,1,Arch-X24 NS,Radius tuning confirmed halt alignment
+SIMX-025,"CV,MX,R#",11.3,1,ST-X25 NS,Pre-collapse halt corridor stabilized
+SIMX-026,"CV,MX,E2",11.3,1,SDS-X26 NS,Halt radius aligned with sensitivity pass
+SIMX-027,"CV,MX,R#",11.2,1,RT-X27 NS,Arrest radius sealed at end-of-block drift check
+SIMX-028,"CV,MX,E2",11.2,1,Rev-X28 NS,Pressure tightening suppressed variance
+SIMX-029,"CV,MX,R#",11.1,1,Arch-X29 NS,Radius shift refined halt proximity
+SIMX-030,"CV,MX,E2",11.1,1,ST-X30 NS,Pre-collapse halt inputs confirmed
+SIMX-031,"CV,MX,E3",11,1,SDS-X31 NS,Halt radius aligned with E3 band
+SIMX-032,"CV,MX,E3",11,1,RT-X32 NS,Arrest radius sealed; Δρ/ΔT response stable
+SIMX-033,"CV,MX,R#",10.9,1,Rev-X33 NS,Pressure-band adjustment nearly eliminated drift
+SIMX-034,"CV,MX,E3",10.9,1,Arch-X34 NS,Radius tuning locked halt corridor
+SIMX-035,"CV,MX,R#",10.8,1,ST-X35 NS,Pre-collapse halt band stable
+SIMX-036,"CV,MX,E3",10.8,1,SDS-X36 NS,Halt radius aligned with threshold refinement
+SIMX-037,"CV,MX,R#",10.7,1,RT-X37 NS,Arrest radius sealed under thermal increment
+SIMX-038,"CV,MX,E3",10.7,1,Rev-X38 NS,Pressure tightening suppressed variance
+SIMX-039,"CV,MX,R#",10.6,1,Arch-X39 NS,Radius shift refined halt alignment
+SIMX-040,"CV,MX,E3",10.6,1,ST-X40 NS,Pre-collapse halt inputs stable
+SIMX-041,"CV,MX,R#",10.5,1,SDS-X41 NS,Halt radius aligned with collapse band
+SIMX-042,"CV,MX,E3",10.5,1,RT-X42 NS,Arrest radius sealed; ΔT/ΔP band verified
+SIMX-043,"CV,MX,R#",10.4,1,Rev-X43 NS,Pressure-band adjustment nearly eliminated drift
+SIMX-044,"CV,MX,E3",10.4,1,Arch-X44 NS,Radius tuning locked halt corridor
+SIMX-045,"CV,MX,R#",10.3,1,ST-X45 NS,Pre-collapse halt band stabilized
+SIMX-046,"CV,MX,R#",10.3,1,SDS-X46 NS,Halt radius aligned in final sensitivity pass
+SIMX-047,"CV,MX,E3",10.2,1,RT-X47 NS,Arrest radius sealed at end-of-block
+SIMX-048,"CV,MX,R#",10.2,1,Rev-X48 NS,Pressure tightening suppressed residuals
+SIMX-049,"CV,MX,E3",10.2,1,Arch-X49 NS,Radius shift verified halt alignment
+SIMX-050,"CV,MX,R#",10.2,1,ST-X50 NS,Collapse-only corridor halt band complete
