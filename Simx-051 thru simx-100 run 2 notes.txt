@@ -64,3 +64,4 @@ Math‑solver re‑run accuracy values
 
 You can copy/paste this directly into a .csv file. 
 simx_001_050_diagnostics.txt and simx_051_100_run2_activation_map.csv saved to Github
+rename to table_1_core_simulation_outputs_051_100_run2.csv
